@@ -9,19 +9,19 @@ function TechStack() {
           <div className="columns">
             <div>
               <ul className="plusUl">
-                <li className="plus">
+                <li>
                   <img className="plus" src={Plus} alt="Hero" />
                 </li>
-                <li className="plus">
+                <li>
                   <img className="plus" src={Plus} alt="Hero" />
                 </li>
-                <li className="plus">
+                <li>
                   <img className="plus" src={Plus} alt="Hero" />
                 </li>
-                <li className="plus">
+                <li>
                   <img className="plus" src={Plus} alt="Hero" />
                 </li>
-                <li className="plus">
+                <li>
                   <img className="plus" src={Plus} alt="Hero" />
                 </li>
               </ul>
