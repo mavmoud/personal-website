@@ -6,7 +6,8 @@
   padding-bottom: 2vw;
 }
 .hr {
-  color: #FFFFFF;
+  background-color: #FFFFFF;
+  height: 0.01px;
   width: 58.12vw;
   margin-bottom: 1vw;
 }
