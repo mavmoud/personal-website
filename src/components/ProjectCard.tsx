@@ -115,7 +115,6 @@ const ProjectCard = (props: {
             iconLink={props.iconLink}
           />
         </div>
-        s
         <div
           className="CardImg"
           style={{
