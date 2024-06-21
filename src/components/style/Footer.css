@@ -3,11 +3,12 @@
   margin-top: 15.88vw;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 2vw;
+  padding-bottom: 3vw;
+  background-color: transparent;
 }
 .hr {
-  background-color: #FFFFFF;
-  height: 0.01px;
+  border: 0.1px solid #939393;
+  border-radius: 10px;
   width: 58.12vw;
   margin-bottom: 1vw;
 }
