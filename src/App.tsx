@@ -12,7 +12,7 @@ import GithubWhite from "./assets/images/github-white.svg";
 import WellnessImage from "./assets/images/WellnessProjectCover.jpg";
 import WellnessVideo from "./assets/videos/WellnessVideo.mp4";
 import WebsiteImg from "./assets/images/MyWebsiteImg.jpg";
-import WebsiteVid from "./assets/videos/WellnessVideo.mp4";
+import WebsiteVid from "./assets/videos/MyWebsiteVideo.mp4";
 
 import "./App.css";
 
