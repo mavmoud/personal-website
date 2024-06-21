@@ -11,8 +11,8 @@ import GithubGrey from "./assets/images/github-grey.svg";
 import GithubWhite from "./assets/images/github-white.svg";
 import WellnessImage from "./assets/images/WellnessProjectCover.jpg";
 import WellnessVideo from "./assets/videos/WellnessVideo.mp4";
-import PortfolioImage from "./assets/images/mysiteimagefornow.png";
-import PortfolioVideo from "./assets/videos/WellnessVideo.mp4";
+import WebsiteImg from "./assets/images/MyWebsiteImg.jpg";
+import WebsiteVid from "./assets/videos/WellnessVideo.mp4";
 
 import "./App.css";
 
@@ -42,8 +42,8 @@ function App() {
                         education, professional experience, and technical expertise. "
         iconDef={GithubGrey}
         iconHov={GithubWhite}
-        image={PortfolioImage}
-        video={PortfolioVideo}
+        image={WebsiteImg}
+        video={WebsiteVid}
         link="https://mahmoud.cam"
         iconLink="https://github.com/mavmoud/personal-website"
       />
