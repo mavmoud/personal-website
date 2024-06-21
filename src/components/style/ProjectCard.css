@@ -21,14 +21,8 @@
 }
 .ProjectInfo{
     background-color: transparent;
-    /*padding: 0.98vw;*/
     width: 25.62vw;
     height: 11.56vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
-
 }
 .ProjectName{
     text-align: left;
@@ -36,6 +30,7 @@
     font-family: "Switzer-Variable", sans-serif;
     font-weight: 500;
     font-size: 1.4vw;
+    margin-bottom: 1.25vw;
     background-color: transparent;
 }
 .ProjectDescription {
@@ -44,9 +39,6 @@
     font-family: "Switzer-Variable", sans-serif;
     font-weight: 300;
     font-size: 1vw;
-    /*margin-top: 1.25vw;*/
-    /*margin-bottom: 2.8vw;*/
-
     background-color: transparent;
 }
 .CardImg {

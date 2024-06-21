@@ -122,9 +122,9 @@ const ProjectCard = (props: {
           }}
         >
           {hover ? (
-            <video className="ProjectImg" src={props.video} loop autoPlay />
+            <video className="ProjectImg" src={props.video} loop autoPlay preload="auto" />
           ) : (
-            <img className="ProjectImg" src={props.image} alt="Hero" />
+            <img className="ProjectImg" src={props.image} alt="Project Image" />
           )}
         </div>
       </div>
@@ -133,4 +133,3 @@ const ProjectCard = (props: {
 };
 
 export default ProjectCard;
-// export default ProjectCard;

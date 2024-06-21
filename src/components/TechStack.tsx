@@ -10,19 +10,19 @@ function TechStack() {
             <div>
               <ul className="plusUl">
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
               </ul>
             </div>
@@ -40,19 +40,19 @@ function TechStack() {
             <div>
               <ul className="plusUl">
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
               </ul>
             </div>
@@ -70,16 +70,16 @@ function TechStack() {
             <div>
               <ul className="incompUl">
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
                 <li>
-                  <img className="plus" src={Plus} alt="Hero" />
+                  <img className="plus" src={Plus} alt="Plus Icon" />
                 </li>
-                {/*<li><img className="plus" src={Plus} alt="Hero"/></li>*/}
-                {/*<li><img className="plus" src={Plus} alt="Hero"/></li>*/}
+                {/*<li><img className="plus" src={Plus} alt="Plus Icon"/></li>*/}
+                {/*<li><img className="plus" src={Plus} alt="Plus Icon"/></li>*/}
               </ul>
             </div>
             <div className="columnskills">

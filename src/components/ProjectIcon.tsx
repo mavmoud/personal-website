@@ -36,9 +36,9 @@ function ProjectIcon(props: {
         }}
       >
         {hover ? (
-          <img className="icon" src={props.iconHov} alt="Hero" />
+          <img className="icon" src={props.iconHov} alt="Project Icon" />
         ) : (
-          <img className="icon" src={props.iconDef} alt="Hero" />
+          <img className="icon" src={props.iconDef} alt="Project Icon" />
         )}
       </div>
 

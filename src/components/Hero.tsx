@@ -7,10 +7,10 @@ function Hero() {
     <>
       <div className="hero">
         <div className="heroText">
-          Hey, I’m Mahmoud <img className="pp" src={pp} alt="Hero" /> <br />
+          Hey, I’m Mahmoud <img className="pp" src={pp} alt="pp" /> <br />
           a Software Engineering student at Concordia <br /> University based in
           Montreal, Quebec
-          <img className="maple" src={Maple} alt="Hero" />
+          <img className="maple" src={Maple} alt="Maple Leaf" />
         </div>
       </div>
     </>
