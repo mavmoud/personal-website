@@ -1,0 +1,9 @@
+.iconDiv {
+    width: fit-content;
+    height: fit-content;
+}
+.icon{
+    width: 2.5vw;
+    height: 2.5vw;
+    background-color: transparent
+}

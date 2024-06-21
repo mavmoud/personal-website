@@ -1,0 +1,43 @@
+.footer {
+  width: 58.12vw;
+  margin-top: 15.88vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2vw;
+}
+.hr {
+  color: #FFFFFF;
+  width: 58.12vw;
+  margin-bottom: 1vw;
+}
+.footerLinks {
+  width: 51vw;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 4vw;
+  width: fit-content;
+  height: fit-content;
+}
+.copyright {
+  /*height: 1.09vw;*/
+  color: #939393;
+  font-size: 0.83vw;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 300;
+}
+.socialLinks {
+  color: #939393;
+  font-size: 0.83vw;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 300;
+  text-decoration: none;
+}
+.socialLinks:hover {
+  color: #EDECEC;
+}

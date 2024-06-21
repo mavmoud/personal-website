@@ -1,0 +1,39 @@
+.education {
+  width: 53.17vw;
+  display: flex;
+  justify-content: space-between;
+  column-gap: 9.32vw;
+  margin-top: 6.25vw;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.educationTitle {
+  color: #939393;
+  font-size: 1.2vw;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 400;
+}
+.educationDescription {
+  width: 38.12vw;
+  display: flex;
+  justify-content: space-between;
+}
+.universityProgram {
+  width: fit-content;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 300;
+  font-size: 1vw;
+  color: #FFFFFF;
+
+}
+.locationDuration {
+  text-align: right;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 300;
+  font-size: 1vw;
+  color: #FFFFFF;
+}
+.greyEducation {
+  color: #939393;
+}

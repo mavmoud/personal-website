@@ -1,0 +1,62 @@
+.techStack{
+  width: 53.17vw;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6.25vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+.stackTitle {
+  color: #939393;
+  font-size: 1.2vw;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 400;
+}
+.stackColumns {
+  width: 38.12vw;
+  display: flex;
+  justify-content: space-between;
+}
+.columns {
+  width: fit-content;
+  font-family: "Switzer-Variable", serif;
+  font-weight: 300;
+  font-size: 1vw;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  column-gap: 0.5vw;
+}
+.plusLI {
+  list-style: none;
+  height: 0.93vw;
+  width: 0.93vw;
+
+}
+li {
+  list-style: none;
+  height: fit-content;
+
+}
+.plus {
+  height: 0.93vw;
+  width: 0.93vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+.plusUl {
+  height: 6.2vw;
+  line-height: normal;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding-top: 0.1vw;
+  padding-bottom: 0.1vw;
+}
+.incompUl {
+  padding-top: 0.1vw;
+}
+
+.columnSkills{
+  width: fit-content;
+}

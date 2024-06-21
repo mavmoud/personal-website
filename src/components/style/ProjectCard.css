@@ -1,0 +1,68 @@
+.ProjectCard {
+    background-color: #0D0D0D;
+    width: 54.62vw;
+    height: 18.83vw;
+    border-radius: 3.8vw;
+    margin-bottom: 2.3vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.7vw 1.8vw 1.7vw 1.7vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ProjectDetails {
+    width: 25.62vw;
+    height: 16.82vw;
+    padding: 0.98vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.ProjectInfo{
+    background-color: transparent;
+    /*padding: 0.98vw;*/
+    width: 25.62vw;
+    height: 11.56vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+.ProjectName{
+    text-align: left;
+    color: #FFFFFF;
+    font-family: "Switzer-Variable", sans-serif;
+    font-weight: 500;
+    font-size: 1.4vw;
+    background-color: transparent;
+}
+.ProjectDescription {
+    text-align: left;
+    color: #939393;
+    font-family: "Switzer-Variable", sans-serif;
+    font-weight: 300;
+    font-size: 1vw;
+    /*margin-top: 1.25vw;*/
+    /*margin-bottom: 2.8vw;*/
+
+    background-color: transparent;
+}
+.CardImg {
+    width: fit-content;
+    height: fit-content;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+}
+.ProjectImg {
+    width: 25.1vw;
+    border-radius: 2vw;
+}
+.MotionDiv{
+    width: fit-content;
+    height: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
