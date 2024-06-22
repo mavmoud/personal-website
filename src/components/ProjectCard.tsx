@@ -122,7 +122,14 @@ const ProjectCard = (props: {
           }}
         >
           {hover ? (
-            <video className="ProjectImg" src={props.video} loop autoPlay preload="auto" />
+            <video
+              className="ProjectImg"
+              src={props.video}
+              loop
+              autoPlay
+              preload=""
+              playsInline={true}
+            />
           ) : (
             <img className="ProjectImg" src={props.image} alt="Project Image" />
           )}
