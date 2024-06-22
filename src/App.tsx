@@ -44,8 +44,8 @@ function App() {
         iconHov={GithubWhite}
         image={WebsiteImg}
         video={WebsiteVid}
-        link="https://mahmoud.cam"
-        iconLink="https://github.com/mavmoud/personal-website"
+        link=""
+        iconLink="https://github.com/mavmoud/portfolio"
       />
       <About
         aboutOne="I’m a passionate third-year Software Engineering student, eager to gain real-world experience and
