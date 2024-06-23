@@ -19,6 +19,7 @@
 }
 .columns {
   width: fit-content;
+  height: fit-content;
   font-family: "Switzer-Variable", serif;
   font-weight: 300;
   font-size: 1vw;
