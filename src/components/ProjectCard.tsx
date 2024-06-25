@@ -8,8 +8,8 @@ import {
 } from "framer-motion";
 import "./style/ProjectCard.css";
 
-const ROTATION_RANGE = 10;
-const HALF_ROTATION_RANGE = 10 / 2;
+const ROTATION_RANGE = 6;
+const HALF_ROTATION_RANGE = 6 / 2;
 
 const ProjectCard = (props: {
   link: string | URL | undefined;
@@ -99,12 +99,17 @@ const ProjectCard = (props: {
           transformStyle: "preserve-3d",
         }}
       >
-        <div className="ProjectDetails">
+        <div
+          className="ProjectDetails"
+          style={{
+            transform: "translateZ(75px)",
+          }}
+        >
           <div
             className="ProjectInfo"
-            style={{
-              transform: "translateZ(75px)",
-            }}
+            // style={{
+            //   transform: "translateZ(75px)",
+            // }}
           >
             <h1 className="ProjectName">{props.name}</h1>
             <p className="ProjectDescription">{props.description}</p>
