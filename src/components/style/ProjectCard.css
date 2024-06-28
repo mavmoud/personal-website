@@ -1,6 +1,6 @@
  .ProjectCard {
-    background-color: #0D0D0D;
-    /*background-color: #ff0000;*/
+    /*background-color: #0D0D0D;*/
+    background-color: #ff0000;
     width: 54.62vw;
     height: 18.83vw;
     border-radius: 3.8vw;
@@ -52,19 +52,13 @@
     width: 25.1vw;
     border-radius: 2vw;
 }
-.MotionDiv{
-    width: fit-content;
-    height: fit-content;
-    margin-right: auto;
-    margin-left: auto;
-}
 @media (max-width: 768px) {
     .ProjectCard {
-        width: fit-content;
-        height: fit-content;
+        width: 78.1vw;
+        height: 126.46vw;
         border-radius: 10.68vw;
         margin-bottom: 5.59vw;
-        padding: 5.34vw;
+        padding: 5.34vw 5.34vw 7.12vw 5.34vw;
         flex-direction: column;
         gap: 6vw;
     }
@@ -89,13 +83,9 @@
 
 
     }
-    .CardImg {
-        margin-right: auto;
-        margin-left: auto;
-    }
     .ProjectImg {
         width: 78.11vw;
+        height: 58.52vw;
         border-radius: 6.36vw;
-
     }
 }
