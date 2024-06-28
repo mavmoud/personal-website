@@ -60,7 +60,7 @@
 @media (max-width: 768px) {
     .ProjectCard {
         width: 78.1vw;
-        height: 126.46vw;
+        height: fit-content;
         border-radius: 10.68vw;
         margin-bottom: 5.59vw;
         padding: 5.34vw 5.34vw 7.12vw 5.34vw;
@@ -71,10 +71,10 @@
         margin-right: auto;
         margin-left: auto;
         width: 74.55vw;
-        height: 61.83vw;
+        height: fit-content;
         padding-right: 1.78vw;
         padding-left: 1.78vw;
-        gap: 41vw;
+        gap: 45vw;
     }
     .ProjectInfo{
         width: 73.53vw;
