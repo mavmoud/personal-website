@@ -15,7 +15,6 @@
     width: 25.62vw;
     height: 16.82vw;
     padding: 0.98vw;
-
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -66,7 +65,6 @@
         border-radius: 10.68vw;
         margin-bottom: 5.59vw;
         padding: 5.34vw;
-        /*display: initial;*/
         flex-direction: column;
         gap: 6vw;
     }
@@ -77,20 +75,14 @@
         height: 61.83vw;
         padding-right: 1.78vw;
         padding-left: 1.78vw;
-
-
+        gap: 7.1vw;
     }
     .ProjectInfo{
         width: 73.53vw;
-
-
     }
     .ProjectName{
         font-size: 4.32vw;
         margin-bottom: 3.56vw;
-
-
-
     }
     .ProjectDescription{
         font-size: 3.56vw;
