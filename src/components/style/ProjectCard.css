@@ -74,7 +74,7 @@
         height: 61.83vw;
         padding-right: 1.78vw;
         padding-left: 1.78vw;
-        gap: 10vw;
+        gap: 41vw;
     }
     .ProjectInfo{
         width: 73.53vw;
@@ -85,8 +85,6 @@
     }
     .ProjectDescription{
         font-size: 3.56vw;
-
-
     }
     .ProjectImg {
         width: 78.11vw;
