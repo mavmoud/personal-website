@@ -5,7 +5,6 @@ function Footer() {
   return (
     <>
       <div className="footer">
-        <hr className="hr" />
         <div className="footerLinks">
           <div className="links">
             <div>

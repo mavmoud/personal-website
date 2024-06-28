@@ -1,5 +1,5 @@
 import { ReactElement, ReactNode, ReactPortal, useRef, useState } from "react";
-import ProjectIcon from "./ProjectIcon";
+import ProjectIcon from "./ProjectIcon.tsx";
 import {
   motion,
   useMotionTemplate,

@@ -1,12 +1,13 @@
-.ProjectCard {
+ .ProjectCard {
     background-color: #0D0D0D;
+    /*background-color: #ff0000;*/
     width: 54.62vw;
     height: 18.83vw;
     border-radius: 3.8vw;
     margin-bottom: 2.3vw;
+    padding: 1.7vw 1.8vw 1.7vw 1.7vw;
     display: flex;
     justify-content: space-between;
-    padding: 1.7vw 1.8vw 1.7vw 1.7vw;
     margin-right: auto;
     margin-left: auto;
 }
@@ -57,4 +58,52 @@
     height: fit-content;
     margin-right: auto;
     margin-left: auto;
+}
+@media (max-width: 768px) {
+    .ProjectCard {
+        width: fit-content;
+        height: fit-content;
+        border-radius: 10.68vw;
+        margin-bottom: 5.59vw;
+        padding: 5.34vw;
+        /*display: initial;*/
+        flex-direction: column;
+        gap: 6vw;
+    }
+    .ProjectDetails {
+        margin-right: auto;
+        margin-left: auto;
+        width: 74.55vw;
+        height: 61.83vw;
+        padding-right: 1.78vw;
+        padding-left: 1.78vw;
+
+
+    }
+    .ProjectInfo{
+        width: 73.53vw;
+
+
+    }
+    .ProjectName{
+        font-size: 4.32vw;
+        margin-bottom: 3.56vw;
+
+
+
+    }
+    .ProjectDescription{
+        font-size: 3.56vw;
+
+
+    }
+    .CardImg {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .ProjectImg {
+        width: 78.11vw;
+        border-radius: 6.36vw;
+
+    }
 }

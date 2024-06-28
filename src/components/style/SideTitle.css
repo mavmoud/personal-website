@@ -11,6 +11,14 @@
     font-family: "Switzer-Variable", sans-serif;
     font-weight: 400;
     margin-left: 4.3vw;
-
-
+}
+@media (max-width: 768px) {
+    .ProjectsTitle {
+        margin-bottom: 4.83vw;
+        width: 88.8vw;
+    }
+    .SideTitle{
+        font-size: 3.56vw;
+        margin-left: 9.66vw;
+    }
 }

@@ -26,3 +26,27 @@
     height: 2.3vw;
     margin-bottom: -0.6vw;
 }
+@media (max-width: 768px) {
+    .hero {
+        width: 100vw;
+        height: fit-content;
+        margin-top: 30vw;
+        margin-bottom: 43.86vw;
+    }
+
+    .heroText {
+        width: 78.11vw;
+        font-size: 5.85vw;
+
+    }
+    .pp {
+        width: 7.5vw;
+        height: 7.5vw;
+        margin-bottom: -1vw;
+    }
+    .maple{
+        width: 7vw;
+        height: 7vw;
+        margin-bottom: -1.8vw;
+    }
+}

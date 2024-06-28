@@ -1,16 +1,10 @@
 .footer {
   width: 58.12vw;
-  margin-top: 15.88vw;
+  margin-top: 13vw;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 3vw;
   background-color: transparent;
-}
-.hr {
-  border: 0.1px solid #939393;
-  border-radius: 10px;
-  width: 58.12vw;
-  margin-bottom: 1vw;
 }
 .footerLinks {
   width: 51vw;
@@ -42,4 +36,21 @@
 }
 .socialLinks:hover {
   color: #EDECEC;
+}
+@media (max-width: 768px) {
+  .footer {
+    width: 80.66vw;
+    margin-top: 38.16vw;
+    padding-bottom: 11.45vw;
+
+  }
+  .footerLinks {
+    width: 75vw;
+  }
+  .copyright {
+    font-size: 2.54vw;
+  }
+  .socialLinks {
+    font-size: 2.54vw;
+  }
 }
